@@ -1,1 +1,2 @@
 "Hola, estas son las instrucciones" 
+"Redactar Manual de UCuario"
