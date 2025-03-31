@@ -1,2 +1,7 @@
 # Práctica de Campo
-Proyecto de “Sistema de reservas para canchas deportivas”
+
+SISTEMA DE RESERVAS PARA CANCHAS DEPORTIVAS
+
+Problematica: 
+
+-Los usuarios deben ir presencialmente para saber si hay canchas de futbol disponibles. 
